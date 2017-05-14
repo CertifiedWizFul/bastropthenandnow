@@ -3,7 +3,7 @@
     $email = $_POST['email'];
     $message = $_POST['message'];
     $from = 'From: BastropThenandNow'; 
-    $to = 'mateo@g.austincc.edu'; 
+    $to = 'mateo.escamilla@g.austincc.edu'; 
     $subject = 'Contact';
 
     $body = "From: $name\n E-Mail: $email\n Message:\n $message";
