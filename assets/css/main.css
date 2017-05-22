@@ -2177,8 +2177,8 @@
 
 			#main > section.cover {
 				padding: 6em 0;
-				background-size: cover;
-				background-position: center bottom;
+				background-size: contain;
+				background-position: center center;
 			}
 
 			#main > section.one {
