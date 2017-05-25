@@ -2104,7 +2104,7 @@
 			}
 
 				#nav ul li a.active span:before {
-					color: #e27689;
+					color: #ffffff;
 				}
 
 /* Footer */
@@ -2201,6 +2201,9 @@
 
 			#main > section.five {
 				background-color: #ebefee;
+			}
+			#main > section.six {
+				background-color: #edf0ef;
 			}
 /* Wide */
 
